@@ -23,7 +23,7 @@ h6 {
 
 .hero {
   text-align: center;
-  padding: 160px 20px;
+  padding: 100px 20px;
   background-color: var(--secondary-color);
 }
 
@@ -36,7 +36,7 @@ h2 {
   font-size: 48px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -107,7 +107,7 @@ p {
     font-size: 14px;
   }
 
-  h4 {
+  h3 {
     font-size: 26px;
   }
 }
@@ -117,7 +117,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .content-container h1,
 .content h1 {
